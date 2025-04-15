@@ -1,18 +1,42 @@
 [
     {
         "id":0,
+        "Thumbnail":"/product0.png",
+        "title":"서울 경복궁",
+        "content":"신나게 경북궁을 돌아다니자 워킹화 신고오세요",
+        "price":100000
+    },
+    {
+        "id":1,
+        "Thumbnail":"/product1.png",
+        "title":"제주 성산일출봉",
+        "content":"제주도에서 가장 유명한 곳으로 떠나자",
+        "price":200000
+    },
+    {
+        "id":2,
+        "Thumbnail":"/product2.png",
+        "title":"경주 불국사",
+        "content":"경주에 왔다면 국룰은 불국사! 함께 가자구",
+        "price":300000
+    },
+    {
+        "id":3,
+        "Thumbnail":"/product3.png" ,
         "title":"전주 한옥마을",
         "content":"한복을 입고 재밌는 복고 추억여행행",
         "price":120000
     },
     {
-        "id":1,
+        "id":4,
+        "Thumbnail":"/product4.png" ,
         "title":"가평 아침고요수목원원",
         "content":"한국의 초대형 수목원을 만나보아요요",
         "price":220000
     },
     {
-        "id":2,
+        "id":5,
+        "Thumbnail":"/product5.png" ,
         "title":"경주 고분탐험",
         "content":"경주에서 수많은 고분은 만나며 역사를 되세기자",
         "price":320000
